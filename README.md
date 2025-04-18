@@ -42,6 +42,10 @@ The robot continuously monitors its surroundings and makes quick decisions:
 
 ## Hardware Components
 
+![DIY Wall Climber Robot for Glass Cleaning using Fan Suction ](https://github.com/user-attachments/assets/24f7fce9-ed4b-4bd1-a64f-4c1325e6a820)
+
+---
+
 Below is a summary of the hardware components and their respective Arduino pin assignments:
 
 ### Motors
