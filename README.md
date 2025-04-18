@@ -4,6 +4,8 @@
 
 Welcome to the **Wall-Climber Glass Cleaner Robot** project! This Arduino-powered marvel is designed to autonomously clean vertical glass surfaces while safely navigating along edges. Combining motor control, ultrasonic sensing, and cleaning mechanisms, this project offers a robust platform for experimentation and further enhancements. 🚀
 
+> **Inspiration:** This project draws its inspiration from the "Wall Climber Glass Cleaner Robot" featured on [nevonprojects.com](https://nevonprojects.com/wall-climber-glass-cleaner-robot/). Their innovative concept inspired the design and functionality of this implementation.
+
 ---
 
 ## Project Overview
