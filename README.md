@@ -75,6 +75,10 @@ Below is a summary of the hardware components and their respective Arduino pin a
 | **Right Sensor**| A1       | A2       | Right Side    |
 
 The sensors are integrated using a simple structure to keep code clean and readable. The measured distance is computed using the standard formula based on sound speed (approximately 0.034 cm per µs) and divided by 2 to account for the round trip.
+---
+## Flowchart
+### Visual flowchart of the robot’s decision-making
+![code_20250422_103159_via_10015_io](https://github.com/user-attachments/assets/4f1706ca-657c-4e4a-bee0-1f9957e867d7)
 
 ---
 
